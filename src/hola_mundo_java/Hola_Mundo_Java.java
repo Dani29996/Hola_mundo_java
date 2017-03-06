@@ -17,6 +17,7 @@ public class Hola_Mundo_Java {
     public static void main(String[] args) 
     {
         System.out.println("!Hola mundo¡");
+        System.out.println("Esto es una prueba.");
     }
     
 }
